@@ -1,2 +1,4 @@
 name = "Gabriela"
-print("mam na imię", name)
+
+for i in range(100):
+    print("mam na imię", name)
